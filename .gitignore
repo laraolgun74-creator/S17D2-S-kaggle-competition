@@ -29,3 +29,10 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+
+# Local datasets and generated submissions
+*.csv
+
+# Generated test artifacts
+tests/*.pickle
+tests/__pycache__/
